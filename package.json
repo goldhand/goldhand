@@ -1,7 +1,7 @@
 {
   "name": "goldhand",
   "version": "1.0.1",
-  "description": "Will Farley <github.com/goldhand>",
+  "description": "Will Farley github.com/goldhand",
   "main": "index.js",
   "scripts": {
     "postinstall": "node index.js"
