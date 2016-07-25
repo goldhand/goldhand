@@ -1,6 +1,6 @@
 {
   "name": "goldhand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Will Farley <github.com/goldhand>",
   "main": "index.js",
   "scripts": {
